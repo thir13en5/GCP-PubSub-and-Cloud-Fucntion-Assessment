@@ -1,0 +1,1 @@
+{"name":"chaitanya-pubsub-func","zone":"us-east1-b","bucket_from":"gs://chaitanya-bucket-from/invoker.jfif","bucket_to":"gs://chaitanya-bucket-to/","project":"pe-training"}
