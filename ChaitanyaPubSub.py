@@ -75,7 +75,7 @@ def hello_pubsub(event, context):
                 		# instance upon startup.
 						#hardcoded the bucket names can alter with above defined keys
                 		'key': 'startup-script',
-                		'value': "#!/bin/bash\ngsutil cp gs://chaitanya-bucket-from/invoker.jfif gs://chaitanya-bucket-to/\n"
+                		'value': "#!/bin/bash\ngsutil cp bucket_from bucket_to\n"
             	}]
             }
         }
